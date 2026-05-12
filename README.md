@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emma!
 - 👀 I’m interested in aerospace engineering, orbital mechanics and space sciences as a whole
-- 🌱 I’m currently learning pythong programming
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on projects for networking and making friends along the way
-- 📫 How to reach me email jo137546@ucf.edu
+- 📫 How to reach me email cerdaemma379@gmail.com 
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I was born in Chile and immigrated here at 6 years old.
 
