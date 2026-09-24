@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on projects for networking and making friends along the way
 - 📫 How to reach me email cerdaemma379@gmail.com 
-- 😄 Pronouns: they/them
+- 😄 Pronouns: she/her/they/them does not matter, for we are all ones and zeros here -Anonymous
 - ⚡ Fun fact: I was born in Chile and immigrated here at 6 years old.
 
 <!---
